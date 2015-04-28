@@ -1,0 +1,28 @@
+0.  
+BMP: up to 24-bits. Contemporary supports 32-bits and 64-bits per pixel. 
+GIF: 8-bits or 256 colors. 
+JPEG: 24-bits or 16.7 million colors, 
+PNG: 24-bitand 48-bit truecolor, When an alpha channel is added, up to 64 bits per pixel are possible..
+
+1.  GIF
+
+2.  Lossy compression formats uses approximation method in compression in order to achieve a great reduction in size but you cannot fully recover the original file, suited for photographs.
+Lossless compression formats uses exact method in compression so the reduction is moderate but you can fully recover the original file, suited for illustrations, drawings and text. 
+3.  JPEG
+4.  When the operating system erases a FAT file, two things occur. First, the system modifies the filename’s first character in the file’s directory entry to signal that the file has been deleted and that the directory entry can be recycled. Second, the system moves all of the file’s FAT clusters to the hard drive’s list of free clusters. The actual file data is never touched and can be recovered.
+5.  (1) Get more educated about proper techniques for sanitizing disk drives; (2) find tools for removing disk information; (3) use encryption for confidential information; (4) use disks and operating systems which are capable of automatically sanitizing deleted files.
+6.  Deine exact width type of integers. 
+7.  A short way to claim the type of a segment of the 0 and 1's, or how to decode them/what do they mean.
+8.  1, 4, 4, 2
+9.  hexadecimal
+10. bfType has 2 bits, biSize has 4 bits -- so longer.
+11. If biHeight is negative, the bitmap is a topdown DIB, and its origin is the upper-left corner.
+12. biBitCount
+13. Not specify the file directory
+14. Only read each pixel one time.
+15. 3.
+16. Change the location of file pointer.
+17. Current position of file pointer
+18. TODO
+
+
