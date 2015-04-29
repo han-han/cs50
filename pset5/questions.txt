@@ -1,0 +1,11 @@
+0.  An Englished words refers to a lung disease, the longest English word for now.
+1.  Returns resources usage measures for the calling process itself, or all children of the calling process that have terminated and been waited for, or the calling thread.
+2.  16
+3.  Save some space and time when copying the struct.
+4.  Read in each word letter by letter (handle cases of too long, with numbers), update word count, spell check and record cumulative time spent, print mis-spelled word.
+5.  Keep track of the length of word readed in, can handle unexpected long word.
+6.  Don't want other programs to change the word or the dictionary.
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
